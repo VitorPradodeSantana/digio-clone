@@ -1,0 +1,154 @@
+.btn-header {
+    background-color: #ff6776;
+    color: #fff;
+    text-decoration: none;
+    padding: 24px 24px;
+    border-radius: 4px;
+}
+
+.navbarColor {
+    background-color: #F9F9F9;
+    border-bottom: 5px solid #dbdbdb96;
+    font-size: 16px !important;
+    height: 12vh !important;
+}
+
+.navbarColor span {
+    font-size: 16px;
+    text-transform: none;
+    color: #fff !important;
+}
+
+header nav ul li a {
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    font-size: 12px !important;
+    color: rgb(28, 32, 72) !important;
+    font-weight: 700;
+}
+
+.containerProprio {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+main {
+    font-family: 'Roboto', sans-serif;
+}
+
+.cardImg {
+    background-image: url('https://static.digio.com.br/media/Card_conta_digio_1100x1500px_451effd015.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+    border-radius: 6px;
+    height: 480px;
+    margin-right: 32px;
+}
+
+.segunda-imagem {
+    background-image: url('https://static.digio.com.br/media/Card_Descontinho_1100x1500px_8cdb30a017.png');
+}
+
+.terceira-imagem {
+    background-image: url('https://static.digio.com.br/media/Card_Cashback_1100x1500_2aca62be7b.jpg');
+}
+
+.col {
+    padding: 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.col p {
+    font-weight: 700;
+    font-size: 28px;
+    color: #fff;
+    margin: 37.24px 0;
+    width: 90%;
+}
+
+.btn-box {
+    width: 100%;
+}
+
+.btn-card {
+    background-color: #1c2048;
+    padding: 16px 24px;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+}
+
+.card-body {
+    padding: 64px 0px;
+}
+
+#servicos span {
+    color: rgb(59, 92, 249);
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#servicos p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+#servicos h2 {
+    font-size: 48px;
+    width: 40%;
+    margin-bottom: 68px;
+    font-weight: 700;
+}
+
+.icone-servicos {
+    width: 48px;
+    height: 48px;
+    color: #78e9e0;
+}
+
+.servico-box svg {
+    margin: 20px 0;
+}
+
+.servico-box h4 {
+    font-size: 32px;
+    font-weight: 700;
+    display: block;
+}
+
+.servico-box p {
+    font-weight: 300;
+    color: hsl(0, 0%, 60%);
+    font-size: 18px;
+}
+
+.servico-box a {
+    text-decoration: underline;
+    text-decoration-color: #007bff;
+}
+
+/* ----------------------- FORM -------------------------------- */
+.containerProprio .form p{
+    color: #1f2d27;
+    font-weight: 100;
+    margin: 48px 0 0 0 !important;
+}
+
+.containerProprio .form p:nth-child(3){
+    color: #6f7974;
+    font-size: 14px;
+    margin: 0 0 0 0 !important;
+}
+
+.containerProprio .form div:nth-child(1){
+    justify-content: center !important;
+}
